@@ -1,23 +1,23 @@
 {
-  "name": "",
+  "name": "create-js-style",
   "version": "1.0.0",
-  "description": "",
+  "description": "A script to setup Airbnb style guide with Eslint in your dev environment",
   "repository": "",
   "author": {
-    "name": "",
-    "email": "",
-    "url": ""
+    "name": "Meer Hamza",
+    "email": "hamzababar37@gmail.com",
+    "url": "https://twitter.com/meerhamzadev"
   },
   "main": "index.js",
   "license": "MIT",
   "bin": {
-    "command-name": "./index.js"
+    "create-js-style": "./index.js"
   },
   "keywords": [],
   "dependencies": {
     "chalk": "^4.1.2",
     "cli-welcome": "^2.2.2",
     "exit-cli": "^1.0.3",
-    "inquirer": "^8.2.0"
+    "node-async-exec": "^1.2.0"
   }
 }
